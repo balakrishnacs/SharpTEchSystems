@@ -1,1 +1,1 @@
-# SharpTEchSystems
+# SharpTechSystems
